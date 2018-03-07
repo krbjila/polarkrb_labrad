@@ -1,0 +1,9 @@
+1. make sure the node is running on the main experimental control computer (krbjila)
+2. go to ./batch/
+3. run the two files there in order
+4. should be good to go!
+
+troubleshooting:
+1. on krbjila, run "ifconfig" in the terminal
+2. check that the ip address is still 128.138.107.174
+3. if it isn't for some reason, need to update the environment variable LABRADHOST on THIS computer to reflect the new ip address
