@@ -33,7 +33,7 @@ sys.path.append('../')
 from server_tools.hardware_interface_server import HardwareInterfaceServer
 
 
-ad9910_address = 'COM21' # address for AD9910 arduino
+ad9910_address = 'COM3' # address for AD9910 arduino
 
 
 class AD9910Server(HardwareInterfaceServer):

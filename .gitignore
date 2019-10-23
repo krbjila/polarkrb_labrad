@@ -7,7 +7,7 @@
 *.fdb_latexmk
 *.out
 config.json
-
-
+.gitignore
+/okfpga/bit_files/old/*
 # ignore "old" folder
 /old/*
