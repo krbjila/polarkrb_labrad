@@ -1,6 +1,6 @@
 node_dict = {
-    'node polarkrb': [
-		'ad9910',
+    'node imaging': [
+		# 'ad9910',
 		'okfpga'
     ],
 }
