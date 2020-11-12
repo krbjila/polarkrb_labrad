@@ -77,7 +77,7 @@ void loop() {
       break;
     case PROGRAM_RUN:
       {
-        // why the fuck do i need to do this:
+        // why do i need to do this:
         masterReset();
         ddsCFRInit();
 
